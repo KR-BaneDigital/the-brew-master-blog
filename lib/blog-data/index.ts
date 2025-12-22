@@ -8,10 +8,12 @@ import { post as elevate_every_meal_the_salt_and_pepper_set_that_delivers_fla } 
 import { post as chantomoo_slippers_step_into_comfort_and_style_like_never_be } from './chantomoo-slippers-step-into-comfort-and-style-like-never-be.data'
 import { post as step_into_bliss_why_chantomoo_slippers_redefine_home_comfort } from './step-into-bliss-why-chantomoo-slippers-redefine-home-comfort.data'
 import { post as chantomoo_slippers_step_into_comfort_and_cozy_chic } from './chantomoo-slippers-step-into-comfort-and-cozy-chic.data'
+import { post as whisk_your_worries_away_the_ultimate_egg_whisk_set_review } from './whisk-your-worries-away-the-ultimate-egg-whisk-set-review.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  whisk_your_worries_away_the_ultimate_egg_whisk_set_review,
   chantomoo_slippers_step_into_comfort_and_cozy_chic,
   step_into_bliss_why_chantomoo_slippers_redefine_home_comfort,
   chantomoo_slippers_step_into_comfort_and_style_like_never_be,
