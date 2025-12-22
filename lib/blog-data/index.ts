@@ -6,10 +6,12 @@ import { post as slice_your_prep_time_in_half_beswood_slicer_review_unveiled } f
 import { post as unlock_barista_level_brews_at_home_aeropress_coffee_press_re } from './unlock-barista-level-brews-at-home-aeropress-coffee-press-re.data'
 import { post as elevate_every_meal_the_salt_and_pepper_set_that_delivers_fla } from './elevate-every-meal-the-salt-and-pepper-set-that-delivers-fla.data'
 import { post as chantomoo_slippers_step_into_comfort_and_style_like_never_be } from './chantomoo-slippers-step-into-comfort-and-style-like-never-be.data'
+import { post as step_into_bliss_why_chantomoo_slippers_redefine_home_comfort } from './step-into-bliss-why-chantomoo-slippers-redefine-home-comfort.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  step_into_bliss_why_chantomoo_slippers_redefine_home_comfort,
   chantomoo_slippers_step_into_comfort_and_style_like_never_be,
   elevate_every_meal_the_salt_and_pepper_set_that_delivers_fla,
   unlock_barista_level_brews_at_home_aeropress_coffee_press_re,
