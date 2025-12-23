@@ -23,10 +23,12 @@ import { post as wake_up_to_barista_quality_brews_gevi_espresso_machine_revie } 
 import { post as minipresso_ns_your_ticket_to_cafe_quality_espresso_anytime_a } from './minipresso-ns-your-ticket-to-cafe-quality-espresso-anytime-a.data'
 import { post as unlock_smooth_mornings_the_cold_brew_maker_that_changes_ever } from './unlock-smooth-mornings-the-cold-brew-maker-that-changes-ever.data'
 import { post as unlock_ultimate_flavor_puck_screen_s_game_changing_sip_exper } from './unlock-ultimate-flavor-puck-screen-s-game-changing-sip-exper.data'
+import { post as wash_away_laundry_woes_the_portable_washing_machine_revoluti } from './wash-away-laundry-woes-the-portable-washing-machine-revoluti.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  wash_away_laundry_woes_the_portable_washing_machine_revoluti,
   unlock_ultimate_flavor_puck_screen_s_game_changing_sip_exper,
   unlock_smooth_mornings_the_cold_brew_maker_that_changes_ever,
   minipresso_ns_your_ticket_to_cafe_quality_espresso_anytime_a,
