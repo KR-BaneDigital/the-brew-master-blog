@@ -27,10 +27,12 @@ import { post as wash_away_laundry_woes_the_portable_washing_machine_revoluti } 
 import { post as unleash_your_inner_barista_gaggia_brera_espresso_review } from './unleash-your-inner-barista-gaggia-brera-espresso-review.data'
 import { post as lift_like_a_pro_unleashing_power_with_the_1_ton_chain_hoist } from './lift-like-a-pro-unleashing-power-with-the-1-ton-chain-hoist.data'
 import { post as unlock_caf_quality_at_home_breville_barista_touch_review } from './unlock-caf-quality-at-home-breville-barista-touch-review.data'
+import { post as discover_the_depths_how_the_promaster_sea_watch_elevates_you } from './discover-the-depths-how-the-promaster-sea-watch-elevates-you.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  discover_the_depths_how_the_promaster_sea_watch_elevates_you,
   unlock_caf_quality_at_home_breville_barista_touch_review,
   lift_like_a_pro_unleashing_power_with_the_1_ton_chain_hoist,
   unleash_your_inner_barista_gaggia_brera_espresso_review,
