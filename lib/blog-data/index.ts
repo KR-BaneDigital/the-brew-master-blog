@@ -16,10 +16,12 @@ import { post as unlock_caf_quality_the_espresso_machine_that_transforms_morn } 
 import { post as unleash_your_inner_marksman_colt_defender_bb_gun_review } from './unleash-your-inner-marksman-colt-defender-bb-gun-review.data'
 import { post as time_made_easy_discover_the_buzz_behind_the_beeasy_digital_w } from './time-made-easy-discover-the-buzz-behind-the-beeasy-digital-w.data'
 import { post as lift_like_a_pro_mini_chain_hoist_review_for_effortless_heavy } from './lift-like-a-pro-mini-chain-hoist-review-for-effortless-heavy.data'
+import { post as chill_out_how_the_cold_brew_maker_elevates_your_coffee_game } from './chill-out-how-the-cold-brew-maker-elevates-your-coffee-game.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  chill_out_how_the_cold_brew_maker_elevates_your_coffee_game,
   lift_like_a_pro_mini_chain_hoist_review_for_effortless_heavy,
   time_made_easy_discover_the_buzz_behind_the_beeasy_digital_w,
   unleash_your_inner_marksman_colt_defender_bb_gun_review,
