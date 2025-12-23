@@ -25,10 +25,12 @@ import { post as unlock_smooth_mornings_the_cold_brew_maker_that_changes_ever } 
 import { post as unlock_ultimate_flavor_puck_screen_s_game_changing_sip_exper } from './unlock-ultimate-flavor-puck-screen-s-game-changing-sip-exper.data'
 import { post as wash_away_laundry_woes_the_portable_washing_machine_revoluti } from './wash-away-laundry-woes-the-portable-washing-machine-revoluti.data'
 import { post as unleash_your_inner_barista_gaggia_brera_espresso_review } from './unleash-your-inner-barista-gaggia-brera-espresso-review.data'
+import { post as lift_like_a_pro_unleashing_power_with_the_1_ton_chain_hoist } from './lift-like-a-pro-unleashing-power-with-the-1-ton-chain-hoist.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  lift_like_a_pro_unleashing_power_with_the_1_ton_chain_hoist,
   unleash_your_inner_barista_gaggia_brera_espresso_review,
   wash_away_laundry_woes_the_portable_washing_machine_revoluti,
   unlock_ultimate_flavor_puck_screen_s_game_changing_sip_exper,
