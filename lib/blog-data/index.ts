@@ -12,10 +12,12 @@ import { post as whisk_your_worries_away_the_ultimate_egg_whisk_set_review } fro
 import { post as rowing_blazers_watch_elevate_your_style_with_timeless_precis } from './rowing-blazers-watch-elevate-your-style-with-timeless-precis.data'
 import { post as unlock_effortless_handling_why_lever_star_handle_is_a_game_c } from './unlock-effortless-handling-why-lever-star-handle-is-a-game-c.data'
 import { post as awaken_your_inner_barista_the_espresso_maker_that_elevates_m } from './awaken-your-inner-barista-the-espresso-maker-that-elevates-m.data'
+import { post as unlock_caf_quality_the_espresso_machine_that_transforms_morn } from './unlock-caf-quality-the-espresso-machine-that-transforms-morn.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  unlock_caf_quality_the_espresso_machine_that_transforms_morn,
   awaken_your_inner_barista_the_espresso_maker_that_elevates_m,
   unlock_effortless_handling_why_lever_star_handle_is_a_game_c,
   rowing_blazers_watch_elevate_your_style_with_timeless_precis,
