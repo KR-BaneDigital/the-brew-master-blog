@@ -32,10 +32,12 @@ import { post as unlock_your_morning_bliss_cold_brew_maker_review_for_coffee_ } 
 import { post as grind_your_way_to_flavor_the_ultimate_herb_grinder_review } from './grind-your-way-to-flavor-the-ultimate-herb-grinder-review.data'
 import { post as pagani_design_watch_elevate_your_style_without_breaking_the_ } from './pagani-design-watch-elevate-your-style-without-breaking-the-.data'
 import { post as outin_nano_espresso_brew_barista_quality_coffee_anywhere } from './outin-nano-espresso-brew-barista-quality-coffee-anywhere.data'
+import { post as espresso_machine_magic_brew_barista_quality_coffee_at_home } from './espresso-machine-magic-brew-barista-quality-coffee-at-home.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  espresso_machine_magic_brew_barista_quality_coffee_at_home,
   outin_nano_espresso_brew_barista_quality_coffee_anywhere,
   pagani_design_watch_elevate_your_style_without_breaking_the_,
   grind_your_way_to_flavor_the_ultimate_herb_grinder_review,
