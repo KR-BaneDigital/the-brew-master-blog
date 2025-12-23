@@ -18,10 +18,12 @@ import { post as time_made_easy_discover_the_buzz_behind_the_beeasy_digital_w } 
 import { post as lift_like_a_pro_mini_chain_hoist_review_for_effortless_heavy } from './lift-like-a-pro-mini-chain-hoist-review-for-effortless-heavy.data'
 import { post as chill_out_how_the_cold_brew_maker_elevates_your_coffee_game } from './chill-out-how-the-cold-brew-maker-elevates-your-coffee-game.data'
 import { post as unleash_caf_quality_at_home_philips_espresso_machine_review } from './unleash-caf-quality-at-home-philips-espresso-machine-review.data'
+import { post as unlock_rich_flavors_how_the_burr_grinder_elevates_your_coffe } from './unlock-rich-flavors-how-the-burr-grinder-elevates-your-coffe.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  unlock_rich_flavors_how_the_burr_grinder_elevates_your_coffe,
   unleash_caf_quality_at_home_philips_espresso_machine_review,
   chill_out_how_the_cold_brew_maker_elevates_your_coffee_game,
   lift_like_a_pro_mini_chain_hoist_review_for_effortless_heavy,
