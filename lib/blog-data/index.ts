@@ -19,10 +19,12 @@ import { post as lift_like_a_pro_mini_chain_hoist_review_for_effortless_heavy } 
 import { post as chill_out_how_the_cold_brew_maker_elevates_your_coffee_game } from './chill-out-how-the-cold-brew-maker-elevates-your-coffee-game.data'
 import { post as unleash_caf_quality_at_home_philips_espresso_machine_review } from './unleash-caf-quality-at-home-philips-espresso-machine-review.data'
 import { post as unlock_rich_flavors_how_the_burr_grinder_elevates_your_coffe } from './unlock-rich-flavors-how-the-burr-grinder-elevates-your-coffe.data'
+import { post as wake_up_to_barista_quality_brews_gevi_espresso_machine_revie } from './wake-up-to-barista-quality-brews-gevi-espresso-machine-revie.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  wake_up_to_barista_quality_brews_gevi_espresso_machine_revie,
   unlock_rich_flavors_how_the_burr_grinder_elevates_your_coffe,
   unleash_caf_quality_at_home_philips_espresso_machine_review,
   chill_out_how_the_cold_brew_maker_elevates_your_coffee_game,
