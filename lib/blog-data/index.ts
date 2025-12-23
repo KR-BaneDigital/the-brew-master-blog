@@ -14,10 +14,12 @@ import { post as unlock_effortless_handling_why_lever_star_handle_is_a_game_c } 
 import { post as awaken_your_inner_barista_the_espresso_maker_that_elevates_m } from './awaken-your-inner-barista-the-espresso-maker-that-elevates-m.data'
 import { post as unlock_caf_quality_the_espresso_machine_that_transforms_morn } from './unlock-caf-quality-the-espresso-machine-that-transforms-morn.data'
 import { post as unleash_your_inner_marksman_colt_defender_bb_gun_review } from './unleash-your-inner-marksman-colt-defender-bb-gun-review.data'
+import { post as time_made_easy_discover_the_buzz_behind_the_beeasy_digital_w } from './time-made-easy-discover-the-buzz-behind-the-beeasy-digital-w.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  time_made_easy_discover_the_buzz_behind_the_beeasy_digital_w,
   unleash_your_inner_marksman_colt_defender_bb_gun_review,
   unlock_caf_quality_the_espresso_machine_that_transforms_morn,
   awaken_your_inner_barista_the_espresso_maker_that_elevates_m,
